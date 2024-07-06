@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+android/app/debug.keystore
+pubspec.lock
+
+# Visual Studio Code related
+.vscode/
+
+# iOS related
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android related
+**/android/.gradle/
+**/android/captures/
+**/android/app/build/
+**/android/local.properties
+**/android/.idea/
+**/android/.vscode/
